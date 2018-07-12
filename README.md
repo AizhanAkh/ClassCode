@@ -1,4 +1,5 @@
 CLASS: Cosmic Linear Anisotropy Solving System  {#mainpage}
+PT module (in progress) by Mikhail M. Ivanov
 ==============================================
 
 Authors: Julien Lesgourgues and Thomas Tram
