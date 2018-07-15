@@ -46,6 +46,9 @@ OMPFLAG   = -fopenmp
 CCFLAG = -g -fPIC
 LDFLAG = -g -fPIC
 
+# C99 Mode
+CCFLAG = -std=gnu99
+
 # leave blank to compile without HyRec, or put path to HyRec directory
 # (with no slash at the end: e.g. hyrec or ../hyrec)
 HYREC = hyrec
